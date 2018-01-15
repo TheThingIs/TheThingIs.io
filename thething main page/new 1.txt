@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>TheThingIs</title>
+		<meta charset="utf-8">
+		<link href="Style.css" rel="stylesheet">
+	</head>
+	
+  <body>
+    <div id="page">
+      <header>
+      	<img src="https://ak9.picdn.net/shutterstock/videos/14174009/thumb/1.jpg">fet ost</img>
+      </header>
+      <nav>
+        <ul>
+          <li>
+          	
+          
+          </li>
+        </ul>
+        <ul>
+        
+        </ul>
+        <ul>
+        
+        </ul>
+        <ul>
+        
+        </ul>
+      </nav>
+      
+      <footer>
+      	
+      </footer>
+    	
+    	
+    	
+    	
+    </div>
+  </body>
+
+</html>
